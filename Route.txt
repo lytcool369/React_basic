@@ -1,0 +1,12 @@
+※ 서버
+ => 요청을 받음
+ => API를 라우터로 구현
+ => URL(개발자가 직접 정함) 이 필요 
+
+※ 클라이언트
+ => URL 지정
+
+* CSR (Client Side Rendering)
+ - react의 최대 단점으로, 필요없는 페이지도 전부 다운로드 받아야한다.
+
+* SSR (Server Side Rendering)

@@ -1,0 +1,18 @@
+* HTML처럼 코딩 -> JSX -> Component의 화면
+* Component (화면 조각)
+
+* SPA (Single Page Application)
+ - <div #root>
+      React Component
+   </div>
+
+* 1. Class Component
+    => render
+  2. Functional Component
+    => return
+ 
+
+
+* rsc: 해당 js function 자동 생성
+
+* const [받을 파라미터, 세팅할 파라미터] = useState(초기값);

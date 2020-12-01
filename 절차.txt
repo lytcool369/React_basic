@@ -1,0 +1,63 @@
+1. 바탕화면에 'bit-react' 파일 생성
+
+2. cmd 창을 관리자 권한 실행
+
+3. bit-react 폴더로 경로 설정
+
+4. npm install npx -g
+
+5. npm install create-react-app -g
+
+6. npx create-react-app react-chap01
+
+7. cmd창 닫고
+
+8. visual studio code 실행
+
+9. react-chap01 폴더 열기
+
+10. Terminal 열기
+
+11. npm start
+
+12. 마켓에서 'react' 검색
+
+13. 'ES7 React/Redux/GraphQL/React-Native snippets' 설치
+
+14. 마켓에서 'reactjs code snipp' 검색
+
+15. 'Reactjs code snippets' 설치
+
+16. 'Prettier - Code formatter' 설치
+
+17. 코드 저장 시, 소스 정돈
+    => 파일 -> 기본설정 -> 설정 -> 'format on save' 검색 -> 'Editor: Format on save' 체크
+
+18. [shift + alt + F]  -> pritter -> 설정 적용됨
+
+
+
+* 새로운 챕터를 시작할 때마다
+ - npx create-react-app [폴더명]
+
+* 강사님께 파일 받았을 때는 해당 파일로 들어가서
+ - npm install -> npm start
+
+
+react-chap04
+* styled 사용 시 코딩 도와주는 프로그램 패키지에서 설치
+ - vscode-styled-components
+
+* 라우터 패키지 설치
+ - npm install react-router-dom
+
+* 꾸미기 패키지 설치
+ - npm install styled-components
+ - npm install styled-reset
+
+react-chap05
+* 패키지에 axios 추가 설치
+ - npm install styled-components axios react-router-dom
+  => npm install styled-components
+  => npm install react-router-dom
+  => npm install axios 
