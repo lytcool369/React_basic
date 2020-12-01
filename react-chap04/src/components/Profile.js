@@ -32,6 +32,7 @@ const Profile = ({ match }) => {
 };
 
 // 방법 2
+// 방법 1의 unpacking보다 소스가 길어진다.
 // const Profile = (props) => {
 //   const username = props.match.params.username;
 //   const profile = data[username];
@@ -49,7 +50,6 @@ const Profile = ({ match }) => {
 //       <p>{profile.desc}</p>
 //     </div>
 //   );
-//   return <div></div>;
 // };
 
 export default Profile;
